@@ -1,4 +1,4 @@
-# 👋 Hola, soy Arturo Perez
+uo# 👋 Hola, soy Arturo Perez
 
 Desarrollador backend y frontend con experiencia en aplicaciones web, APIs REST, y administración de servidores Linux. Me gusta construir soluciones sólidas y eficientes usando tecnologías modernas y herramientas open source.
 
@@ -40,7 +40,3 @@ Aunque muchos de mis proyectos son privados, aquí tienes una muestra de lo que 
 - 💻 [www.desarrollo21.pe](http://www.desarrollo21.pe)
 
 ---
-
-## 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
