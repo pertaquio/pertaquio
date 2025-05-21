@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hola, soy Arturo Perez
 
-<!--
-**pertaquio/pertaquio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador backend y frontend con experiencia en aplicaciones web, APIs REST, y administración de servidores Linux. Me gusta construir soluciones sólidas y eficientes usando tecnologías modernas y herramientas open source.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas
+
+### 🧩 Web & Backend
+- PHP, JavaScript
+- Laravel, CodeIgniter, Vue.js
+- MySQL, PostgreSQL
+
+### 📱 Desarrollo móvil
+- Flutter
+- Ionic
+- Android Studio (Java/Kotlin)
+
+### 🖥️ Servidores y DevOps
+- Ubuntu, AlmaLinux
+- Apache, Nginx, Node.js
+
+---
+
+## 🛠️ Últimos proyectos
+
+Aunque muchos de mis proyectos son privados, aquí tienes una muestra de lo que suelo trabajar:
+
+- 🔐 Sistemas para Academias, Colegios, Transportes, Visitas, Restaurantes, etc
+- 📊 Dashboards interactivos con Vue.js y APIs en Laravel
+- 🌐 Integración con servicios externos (RENIEC, Sunat, APIs REST y SOAP)
+- 🧾 Automatización de facturación electrónica y reportes PDF
+
+---
+
+## 📫 Contacto
+
+- ✉️ desarrollo21eirl@gmail.com  
+- 🌐 [LinkedIn](https://pe.linkedin.com/in/pertaquio)
+- 💻 [www.desarrollo21.pe](http://www.desarrollo21.pe)
+
+---
+
+## 📈 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
