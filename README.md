@@ -37,6 +37,6 @@ Aunque muchos de mis proyectos son privados, aquí tienes una muestra de lo que 
 
 - ✉️ desarrollo21eirl@gmail.com  
 - 🌐 [LinkedIn](https://pe.linkedin.com/in/pertaquio)
-- 💻 [www.desarrollo21.pe](http://www.desarrollo21.pe)
+- 💻 [www.desarrollo21.pe](http://www.desarrollo21.com)
 
 ---
